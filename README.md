@@ -1,20 +1,8 @@
-:::    ::: :::::::::::     :::      ::::::::  ::::    ::::  :::::::::::             ::::::::::: :::::::::   ::::::::  ::::::::::: :::     ::::    :::
+# Xiaomi Trojan
 
-:+:    :+:     :+:       :+: :+:   :+:    :+: +:+:+: :+:+:+     :+:                     :+:     :+:    :+: :+:    :+:     :+:   :+: :+:   :+:+:   :+:
+## This is a python virus, as my previous trojan (dll.exe or dll.pyw), no source code.
 
- +:+  +:+      +:+      +:+   +:+  +:+    +:+ +:+ +:+:+ +:+     +:+                     +:+     +:+    +:+ +:+    +:+     +:+  +:+   +:+  :+:+:+  +:+
- 
-  +#++:+       +#+     +#++:++#++: +#+    +:+ +#+  +:+  +#+     +#+    +#++:++#++:++    +#+     +#++:++#:  +#+    +:+     +#+ +#++:++#++: +#+ +:+ +#+
-  
- +#+  +#+      +#+     +#+     +#+ +#+    +#+ +#+       +#+     +#+                     +#+     +#+    +#+ +#+    +#+     +#+ +#+     +#+ +#+  +#+#+#
- 
-#+#    #+#     #+#     #+#     #+# #+#    #+# #+#       #+#     #+#                     #+#     #+#    #+# #+#    #+# #+# #+# #+#     #+# #+#   #+#+#
-
-###    ### ########### ###     ###  ########  ###       ### ###########                 ###     ###    ###  ########   #####  ###     ### ###    ####
-
-# This is a python virus, as my previous trojan (dll.exe or dll.pyw), no source code.
-
-## Disables regedit and taskmgr.
-## Don't execute destructive version on a real PC with bigger than 2 drives with important data! That may cause data loss!
+Disables regedit and taskmgr.
+Don't execute destructive version on a real PC with bigger than 2 drives with important data! That may cause data loss!
 
 If you reading this line, there's no source code.
